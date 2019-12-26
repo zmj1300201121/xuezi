@@ -1,0 +1,59 @@
+.img1{
+    transition: 1s;
+}
+.img1:hover{
+    transform:scale(1.1);
+}
+.product_title{
+    color: #333333;
+    font-family:ºÚÌå;
+    font-size: 20px;
+}
+.breadcrumb-item+.breadcrumb-item::before{
+    content:">"}
+.bread_style{
+    font-size: 12px;
+}
+.price_font{
+    font-family: Arial;
+    font-size: 34px;
+}
+.xueyuan{
+    font-size: 14px;
+    color:#666;
+}
+.price_shadow{
+    background: -webkit-linear-gradient(top, #f0f0f0 0%, #e0e0e0 100%);
+    box-shadow: 0px 0px 10px #ccc;
+
+}
+.price_height{
+    height:34px;
+}
+.kefu{
+    color: #666;
+    font-size:15px;
+}
+.guige{
+    border: 1px solid rgb(102, 102, 102);
+    color: rgb(102, 102, 102);
+    hgeight:36px;
+    margin-bottom: 2px;
+    padding: 8px 10px;
+    text-align: center;
+    vertical-align: middle;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+}
+.guige1{
+    width:110px;
+}
+.w{
+    width:34px;
+    height: 34px;
+    border-color: #f00 ;
+}
+.border_color{
+    border-color: #ddd !important;
+}
